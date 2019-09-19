@@ -21,3 +21,5 @@ yarn.lock
 # ide
 /.vs
 /.vscode
+
+package-lock
